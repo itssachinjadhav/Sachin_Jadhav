@@ -9,12 +9,29 @@ I'm a **Data Analyst** with a passion for transforming data into actionable insi
 - 📊 Former **Data Analyst Intern at Learnvista Pvt Ltd**  
 - 🔍 Focused on **healthcare analytics** and **business intelligence**  
 
-## 🔧 Technical Skills
-- **Programming & Scripting**: Python, SQL  
-- **Data Analysis Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Data Visualization**: Power BI, Tableau  
-- **Database Management**: Microsoft SQL Server  
-- **Other Tools**: Excel, Jupyter Notebook  
+## 🔧 Technical Skills  
+
+### Programming & Scripting:  
+- Python, SQL, Advanced Excel  
+
+### Data Analysis & Visualization:  
+- Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
+
+### Statistical Analysis:  
+- Hypothesis Testing, ANOVA, Regression Analysis, Forecasting  
+
+### Database Management:  
+- MySQL, Microsoft SQL Server, Snowflake  
+
+### Big Data & Processing:  
+- Apache Spark  
+
+### Data Wrangling & Transformation:  
+- Data Cleaning, Transformation, and Extraction  
+
+### Other Tools:  
+- Jupyter Notebook, Git, Critical Thinking, Problem Solving  
+ 
 
 ## 📂 Featured Projects
 ### 1. [Patient Cost Risk Analysis](https://github.com/itssachinjadhav/patient-cost-risk-analysis)
@@ -36,9 +53,8 @@ I'm a **Data Analyst** with a passion for transforming data into actionable insi
 - Collaborating on open-source projects  
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/sachin-jadhav)  
-- [Portfolio](https://your-portfolio-link.com) (if applicable)  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sachin-jadhav-43strt12/)    
+- 📧 Email: [thisissachin02@gmail.com](mailto:thisissachin02@gmail.com)
 
 ---
 
